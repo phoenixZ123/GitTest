@@ -1,3 +1,3 @@
-# GitTest
+# Git Test and create branches
 
-![Alt text](C:\Users\Dell\Desktop\GitTest\Screenshot (245).png "a title")
+![Screenshot (245)](https://github.com/phoenixZ123/GitTest/assets/116957512/532441a7-dae0-4298-afe9-033e4553e276)
